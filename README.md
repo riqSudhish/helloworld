@@ -14,3 +14,4 @@ To run
 
 testrhea03
 test run 2
+Reinstall test scm

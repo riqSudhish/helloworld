@@ -15,4 +15,5 @@ CD Pipeline
 
 Basic
 rhea06
+testrhea07
 

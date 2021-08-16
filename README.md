@@ -16,4 +16,4 @@ CD Pipeline
 Basic
 testrhea06
 testrhea07
-
+testrhea07-upgrade

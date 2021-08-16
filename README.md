@@ -15,5 +15,4 @@ CD Pipeline
 
 Basic
 rhea06
-.
 

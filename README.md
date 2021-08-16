@@ -14,6 +14,6 @@ To run
 CD Pipeline
 
 Basic
-rhea06
+testrhea06
 testrhea07
 

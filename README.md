@@ -17,3 +17,4 @@ Basic
 testrhea06
 testrhea07
 testrhea07-upgrade
+testrhea07-base

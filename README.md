@@ -18,3 +18,4 @@ testrhea06
 testrhea07
 testrhea07-upgrade
 testrhea07-base
+testrhea07-test3-customerbuilds

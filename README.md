@@ -19,4 +19,5 @@ testrhea07
 testrhea07-upgrade
 testrhea07-base
 testrhea07-test3-customerbuilds
-testrhea06-intial install 
+testrhea06-intial install
+testrhea07-upgrde

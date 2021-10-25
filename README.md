@@ -23,3 +23,4 @@ testrhea06-intial install
 testrhea07-upgrde
 gcp
 Azure-cluster
+idt

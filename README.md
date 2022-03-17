@@ -14,3 +14,4 @@ To run
 audible
 proxytest
 proxy-off
+Check proxy logs

@@ -11,10 +11,4 @@ To run
 ------
     java -cp target/helloworld-1.0.jar com.coveros.demo.helloworld.HelloWorld
 
-audible
-proxytest
-proxy-off
-Check proxy logs
-Round 2
-Check
-1
+listener369

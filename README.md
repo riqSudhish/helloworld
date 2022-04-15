@@ -24,4 +24,4 @@ AMI
 upgrade
 order-test
 Install
-Tamil-env
+Tamil-env-test

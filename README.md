@@ -10,11 +10,4 @@ To build
 To run
 ------
     java -cp target/helloworld-1.0.jar com.coveros.demo.helloworld.HelloWorld
-Intel
-Intel009
-json2
-test-fix
-Reduced
-Reduced2
-Fresh test
 Test-cloud-agent

@@ -17,3 +17,4 @@ test-fix
 Reduced
 Reduced2
 Fresh test
+Test-cloud-agent

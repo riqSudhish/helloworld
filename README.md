@@ -13,3 +13,4 @@ To run
 Test-cloud-agent
 onpremtesting2
 AMI
+jenkins crash

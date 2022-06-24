@@ -15,3 +15,4 @@ onpremtesting2
 AMI
 jenkins crash
 onprem6
+cloudagent

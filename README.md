@@ -14,3 +14,4 @@ Test-cloud-agent
 onpremtesting2
 AMI
 jenkins crash
+onprem6
